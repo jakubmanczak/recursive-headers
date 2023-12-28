@@ -1,0 +1,4 @@
+# jakubmanczak/recursive-headers
+
+This repository is an example of functions in headers using each others' code
+without making it a recursive mess.
